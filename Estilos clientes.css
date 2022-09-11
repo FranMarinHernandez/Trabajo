@@ -1,0 +1,21 @@
+
+h1{
+    padding: 20px;
+    text-align: center;
+    font-size: 25px;
+    font-family: Georgia;
+}
+
+div{
+   margin: 10px;
+}
+
+footer{
+    text-align: center;
+    font-family: Georgia;
+
+}
+
+*{
+    background-color: pink;
+}
